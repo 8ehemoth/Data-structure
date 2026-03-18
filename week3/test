@@ -1,0 +1,8 @@
+배열 Array
+
+배열 선언에 따라 각 칸이 할당되는 메모리 크기가 다름
+
+char c : 1byte
+int : 4byte
+short : 2byte
+long : 4byte
