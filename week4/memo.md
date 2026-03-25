@@ -31,5 +31,7 @@ base case : 재귀호출하는과정반복하다보면, 한번에해결할수있
 
 HW
 ▪ 과제1– multTerm(A,b,c) 알고리즘을 작성하시오. 이 함수는다항식A의모든항에b xc
-항을곱하는연산을수행함.  알고리즘3-4과유사한형식으로작성.– polynomial multTerm(polynomial A, float b, int c) 를 C 언어로 작성하고 main() 
-에서테스트하시오.
+항을곱하는연산을수행함.  알고리즘3-4과유사한형식으로작성.– polynomial multTerm(polynomial A, float b, int c) 를 C 언어로 작성하고 main() 에서테스트하시오.
+
+<img width="1861" height="904" alt="image" src="https://github.com/user-attachments/assets/3bfb9f69-6192-4723-9426-4bdec8b37122" />
+
