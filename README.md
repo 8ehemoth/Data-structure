@@ -1,4 +1,4 @@
-# data-structure
+# Data-structure
 
 2026-1학기
 
